@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lucas Melo dos Santos
+- 👀 I’m interested in studying how to become a FullStack developer
+- 🌱 I’m currently learning JavaScript, Java, Devops and DesignGrafic
+- 💞️ I’m looking to collaborate on my company
+- 📫 My contact (32) 98419-2494
